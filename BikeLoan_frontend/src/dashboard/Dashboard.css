@@ -1,0 +1,7 @@
+
+.dashboard-background {
+    background-image: url('../assets/bike.jpeg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
